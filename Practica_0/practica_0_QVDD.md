@@ -116,8 +116,4 @@ mv <archivo_origen> <archivo_destino>
 
 ## Conclusión
 
-Dominar el uso de Git y GitHub, junto con comandos esenciales de la terminal, es fundamental para cualquier desarrollador de software. Git proporciona un control de versiones robusto y flexible, permitiendo a los desarrolladores rastrear y gestionar cambios en el código de manera eficiente. GitHub, como plataforma de colaboración basada en Git, facilita el trabajo en equipo y el manejo de proyectos abiertos o privados.
-
-Los comandos de Git permiten configurar el entorno de trabajo, inicializar y clonar repositorios, gestionar archivos y ramas, y sincronizar cambios con repositorios remotos. Por otro lado, los comandos generales de terminal ayudan en la navegación del sistema de archivos, gestión de directorios y archivos, y obtención de información del sistema, lo cual es crucial para la administración efectiva del entorno de desarrollo.
-
-Con una buena comprensión y práctica de estos comandos, los desarrolladores pueden mejorar su flujo de trabajo, colaborar más efectivamente y mantener un control preciso sobre el desarrollo de sus proyectos. Este conocimiento no solo incrementa la productividad individual, sino que también contribuye significativamente al éxito de los proyectos de equipo y la calidad del software producido.
+Dominar los comandos básicos de Git, GitHub y la terminal es esencial para cualquier desarrollador. Git y GitHub facilitan el control de versiones y la colaboración en proyectos, mientras que los comandos de terminal permiten una gestión eficiente del entorno de desarrollo. Con estos conocimientos, los desarrolladores pueden mejorar su productividad y la calidad de sus proyectos.
